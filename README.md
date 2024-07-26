@@ -30,5 +30,5 @@ sudo npm i -g sequelize-cli
 1. Start the server:
 
 ```
-npm run start
+npm start
 ```
