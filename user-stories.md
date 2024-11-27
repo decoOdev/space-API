@@ -58,8 +58,3 @@ _Como usuário final, quero que cada release esteja bem documentada, para entend
 - Cada release deve conter uma descrição clara das alterações e melhorias feitas.
 
 ---
-
-### Instruções
-
-- Este arquivo foi criado para organizar e documentar as estórias de usuário do projeto.
-- Atualize as estórias conforme novas necessidades surgirem ou mudanças no escopo do projeto forem feitas.
